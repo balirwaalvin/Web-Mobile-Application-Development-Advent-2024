@@ -2,7 +2,7 @@
 var my_name = "Sanyuka Alvin"
 
 //Assign a variable
-height = 5,8;
+let height = 5.8;
 
 console.log(my_name)
 
