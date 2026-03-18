@@ -17,7 +17,7 @@ function our_test() {
 
 //EXAMPLE USAGE
 function first_Let() {
-    if (true) {
+    {
         let my_test = 5;
         console.log(my_test); 
 
