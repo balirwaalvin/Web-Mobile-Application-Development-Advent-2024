@@ -16,7 +16,7 @@ console.log(Number);
 
 //EXAMPLE USAGE (CONSTANTS)
 
-//const PIE = 456;
-// This will throw an error if activated above
-PIE = 356;  
+const PIE = 456;
+// Attempting to reassign a constant will throw a TypeError
+// PIE = 356; // TypeError: Assignment to constant variable.
 console.log(PIE); 
